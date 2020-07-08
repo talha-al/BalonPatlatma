@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: baf4dce2cb2abe94cab10951990b82d6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vlorens Flower
+  fontNames:
+  - Vlorens Flower
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b04be94349f491045ba5017b9d5977d9, type: 3}
+  - {fileID: 12800000, guid: a3bf24ea19aa0c14587d7e9ceac35b5d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
